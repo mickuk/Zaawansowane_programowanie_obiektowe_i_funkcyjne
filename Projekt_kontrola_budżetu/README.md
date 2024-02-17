@@ -91,3 +91,6 @@ Transakcje dodaje się do budżetu za pomocą użytkownika. `UzytkownikZarzadzaj
 
 Budżet ma 2 listy: zwykłych transakcji i tych cyklicznych, reszta.
 
+  
+## Autorzy:
+Michał Iwicki, Michał Kukla, Michał Zajączkowski
